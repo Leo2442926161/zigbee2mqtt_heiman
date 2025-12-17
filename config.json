@@ -167,5 +167,5 @@
       "log": "bool?"
     }
   },
-  "image": "leo2442926161/zigbee2mqtt_heiman"
+  "image": "leo2442926161/zigbee2mqtt_heiman_aarch64"
 }
