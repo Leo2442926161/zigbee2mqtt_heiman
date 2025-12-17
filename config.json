@@ -1,7 +1,7 @@
 {
-  "name": "Zigbee2mqttHeiman",
+  "name": "zigbee2mqtt_heiman",
   "version": "2.28.2-4",
-  "slug": "Zigbee2mqttHeiman",
+  "slug": "zigbee2mqtt_heiman",
   "description": "Zigbee2mqtt add-on",
   "uart": true,
   "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt#installation",
