@@ -2,5 +2,5 @@
 
 Thank you for choosing Heiman products, hope you enjoy it.
 
-> please feel free to contact me if you have any questions.
+please feel free to contact me if you have any questions.
 
