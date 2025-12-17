@@ -1,4 +1,6 @@
 # Home Assistant Add-on: Zigbee2mqtt for Heiman
 
-H
+Thank you for choosing Heiman products, hope you enjoy it.
+
+> please feel free to contact me if you have any questions.
 
