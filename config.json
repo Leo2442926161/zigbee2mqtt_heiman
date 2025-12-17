@@ -86,5 +86,5 @@
     "watchdog": "str?",
     "force_onboarding": "bool?"
   },
-  "image": "leo2442926161/zigbee2mqtt_heiman_{arch}"
+  "image": "leo2442926161/zigbee2mqtt_heiman_aarch64"
 }
